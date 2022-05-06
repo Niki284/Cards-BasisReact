@@ -1,0 +1,31 @@
+.box {
+    height: 6rem;
+    width: 6rem;
+    background-color: rgb(224, 163, 83);
+    margin-top: 1rem;
+}
+
+.box--red button{
+    background-color: red;
+}
+.box--green {
+    background-color: green;
+}
+img {
+    height: 10rem;
+    width: 10rem;
+}
+
+.card {
+    display: flex;
+    height: 20rem;
+    width: 15rem;
+    background-color: chartreuse;
+    /* margin: 1rem; */
+    flex-direction: column;
+    align-items: center;
+
+}
+.title {
+    margin: 1rem;
+}
